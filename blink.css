@@ -1,6 +1,7 @@
 blink {
 	animation: blink 1s linear 0s infinite;
 	-webkit-animation: blink 1s linear 0s infinite;
+	display: inline;
 }
 
 @keyframes blink {
